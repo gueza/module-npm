@@ -1,6 +1,6 @@
 {
   "name": "things-random",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Whenever I start a new project, I don't know what to write for the first commit",
   "main": "src/index.js",
   "scripts": {
