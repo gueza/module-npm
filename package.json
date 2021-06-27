@@ -1,0 +1,28 @@
+{
+  "name": "things-random",
+  "version": "1.0.1",
+  "description": "Whenever I start a new project, I don't know what to write for the first commit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "npm",
+    "node"
+  ],
+  "author": "Stephania Zambrano",
+  "license": "MIT",
+  "bin": {
+    "things-random": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gueza/module-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gueza/module-npm/issues"
+  },
+  "homepage": "https://github.com/gueza/module-npm#readme"
+}
